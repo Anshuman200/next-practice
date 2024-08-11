@@ -51,7 +51,7 @@ const Contact = () => {
                     <div className="max-w-6xl text-center mb-8">
                         <h2 className="mb-4">Contact <span className='text-blue-600'>Me!</span></h2>
                         <p>
-                            Have a project in mind or simply want to say hello? I’m always excited to connect and collaborate on new ideas. Whether you have a specific vision or just need some guidance, feel free to reach out. Let's bring your ideas to life together. I'm here to listen, create, and make your imagination a reality. Don't hesitate—get in touch today!
+                            Have a project in mind or simply want to say hello? I&apos;m always excited to connect and collaborate on new ideas. Whether you have a specific vision or just need some guidance, feel free to reach out. Let's bring your ideas to life together. I'm here to listen, create, and make your imagination a reality. Don't hesitate—get in touch today!
                         </p>
                     </div>
                     <div className="max-w-2xl mx-auto bg-gradient-to-br from-blue-200 to-blue-600 p-4 rounded-xl">
